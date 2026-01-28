@@ -1,6 +1,6 @@
 # PulseCart Growth Engine: Propensity Modeling & Segmentation
 
-### About the Author
+### About Me
 **MSc Digital Marketing & AI Student | SKEMA Business School**
 Bridging the gap between Data Science and Marketing Strategy. This project demonstrates how Machine Learning can solve the "Spray and Pray" marketing problem by identifying high-intent users and segmenting behavior.
 
